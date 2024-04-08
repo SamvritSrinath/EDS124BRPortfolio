@@ -4,8 +4,7 @@ Welcome to my Teaching Portfolio, where I will document all the materials and re
 
 Thank you! And please use the Table of Contents below to navigate to the different sections of my portfolio.
 
-![Self-Portrait](Images/Samvrit-S.jpeg)
-
+<img src = "Images/Samvrit-S.jpeg" width ="200">
 ### Background Information
 
 I've served as a head tutor for CSE 8A in Fall Quarter with Professor Leo Porter, where I worked hands-on developing final exams, projects, labs, and quizzes using a novel new system called _Prarielearn_. Following that I am currently serving as a tutor for CSE 100 **Advanced Data Structures** with Professor Niema Moshiri. I am also a CS Education Researcher exploring the usage of LLMs in the context of CS Education(primarily with introductory programming courses). This is in conjunction with UIUC's CS Education Research Group. We are submitting to ITICSE very soon :D.
