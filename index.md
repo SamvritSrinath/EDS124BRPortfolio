@@ -34,6 +34,8 @@ Attached is my Snap intro explanation for Week 1: [Snap Intro](https://youtu.be/
 
 ### Week 2
 
+Attached is my explanation of Loops and Looping in Snap using a Sprite Dancing! [Loops in Snap](https://youtu.be/7f0KluRjZ0w)
+
 ### Week 3
 
 ### Week 4
