@@ -36,7 +36,7 @@ Attached is my Snap intro explanation for Week 1: [Snap Intro](https://youtu.be/
 
 Attached is my explanation of Loops and Looping in Snap using a Sprite Dancing! [Loops in Snap](https://youtu.be/7f0KluRjZ0w)
 
-Attached is my explanation of my **Animal Parade** Teaching Pedagogy Activity! Take a look here: [Animal Parade](https://youtu.be/43gBoWswtX8)
+Attached is my explanation of my **Animal Parade** Teaching Pedagogy Activity! Take a look here: [Animal Parade](https://youtu.be/kKsHthRLNEc)
 
 ### Week 3
 
