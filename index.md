@@ -11,20 +11,20 @@ I've served as a head tutor for CSE 8A in Fall Quarter with Professor Leo Porter
 
 ### Table of Contents
 
-- [Samvrit Srinath's Teaching Portfolio](#samvrit-srinaths-teaching-portfolio)
-    - [Background Information](#background-information)
-    - [Table of Contents](#table-of-contents)
-  - [Weeks](#weeks)
-    - [Week 1](#week-1)
-    - [Week 2](#week-2)
-    - [Week 3](#week-3)
-    - [Week 4](#week-4)
-    - [Week 5](#week-5)
-    - [Week 6](#week-6)
-    - [Week 7](#week-7)
-    - [Week 8](#week-8)
-    - [Week 9](#week-9)
-    - [Week 10](#week-10)
+-   [Samvrit Srinath's Teaching Portfolio](#samvrit-srinaths-teaching-portfolio)
+    -   [Background Information](#background-information)
+    -   [Table of Contents](#table-of-contents)
+    -   [Weeks](#weeks)
+        -   [Week 1](#week-1)
+        -   [Week 2](#week-2)
+        -   [Week 3](#week-3)
+        -   [Week 4](#week-4)
+        -   [Week 5](#week-5)
+        -   [Week 6](#week-6)
+        -   [Week 7](#week-7)
+        -   [Week 8](#week-8)
+        -   [Week 9](#week-9)
+        -   [Week 10](#week-10)
 
 ## Weeks
 
@@ -40,7 +40,9 @@ Attached is my explanation of my **Animal Parade** Teaching Pedagogy Activity! T
 
 ### Week 3
 
-Attached is my explanation for a *mouse* drawing an Octagon using Nested Repeats! [Nested Repeats](https://youtu.be/Y8FAG38Y9Dc)
+Attached is my explanation for a _mouse_ drawing an Octagon using Nested Repeats! [Nested Repeats](https://youtu.be/Y8FAG38Y9Dc)
+
+Attached is my explanantion for **Snap Events** using a Monkey and a Banana! [Snap Events](https://youtu.be/85s0FLSvGzY)
 
 ### Week 4
 
