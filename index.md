@@ -46,6 +46,8 @@ Attached is my explanantion for **Snap Events** using a Monkey and a Banana! [Sn
 
 ### Week 4
 
+Attached is my explanation for using **Snap Variables** while drawing different shapes! [Snap Variables](https://youtu.be/0lUoDQ_KiD4)
+
 ### Week 5
 
 ### Week 6
