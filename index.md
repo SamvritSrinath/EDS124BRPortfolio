@@ -50,6 +50,8 @@ Attached is my explanation for using **Snap Variables** while drawing different 
 
 ### Week 5
 
+Attached is my explanation for using **Conditional Repeats** to stop a crazy soccer ball! [Conditional Repeats](https://youtu.be/45hvXIPObw4)
+
 ### Week 6
 
 ### Week 7
