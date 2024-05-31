@@ -56,7 +56,7 @@ Attached is my explanation for using **Conditional Repeats** to stop a crazy soc
 
 Attached is my explanation for using **Conditionals** and **If/Else** statements to create an interactive game! [Conditionals](https://youtu.be/jP3b77MFJyY)
 ### Week 7
-
+Attached is my explanation for using **Nested Conditionals** to explain/decide whether or not a penguin should be able to swim! [Nested Ifs](https://youtu.be/9pFG-i6YWKI)
 ### Week 8
 
 ### Week 9
