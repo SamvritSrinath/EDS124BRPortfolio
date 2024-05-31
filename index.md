@@ -58,7 +58,7 @@ Attached is my explanation for using **Conditionals** and **If/Else** statements
 ### Week 7
 Attached is my explanation for using **Nested Conditionals** to explain/decide whether or not a penguin should be able to swim! [Nested Ifs](https://youtu.be/9pFG-i6YWKI)
 ### Week 8
-
+Attached is my video becoming a metal detector and using compound conditionals to find treasure! [Compound Conditionals](https://youtu.be/sqBOcfBj_eQ)
 ### Week 9
 
 ### Week 10
