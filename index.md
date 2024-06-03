@@ -60,5 +60,5 @@ Attached is my explanation for using **Nested Conditionals** to explain/decide w
 ### Week 8
 Attached is my video becoming a metal detector and using compound conditionals to find treasure! [Compound Conditionals](https://youtu.be/sqBOcfBj_eQ)
 ### Week 9
-
+Attached is my video of drawing a beautiful nature scene using functions and custom blocks! [Functions](https://youtu.be/XDBDW0hAZvw)
 ### Week 10
