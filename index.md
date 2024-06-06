@@ -62,3 +62,4 @@ Attached is my video becoming a metal detector and using compound conditionals t
 ### Week 9
 Attached is my video of drawing a beautiful nature scene using functions and custom blocks! [Functions](https://youtu.be/XDBDW0hAZvw)
 ### Week 10
+Attached is my video of asking a hitch-hiker to name all the countries that start with a letter that we tell them! [Lists](https://youtu.be/03wu8n2lDh0)
